@@ -1,0 +1,30 @@
+content_guard_llm_model: siliconflow/Qwen/Qwen3-235B-A22B-Instruct-2507
+default_agent_id: ''
+default_model: deepseek/deepseek-chat
+embed_model: siliconflow/Pro/BAAI/bge-m3
+enable_content_guard: false
+enable_content_guard_llm: false
+enable_reranker: true
+fast_model: deepseek/deepseek-chat
+filename: saves\config\base.yaml
+model_dir: ./models
+reranker: siliconflow/BAAI/bge-reranker-v2-m3
+save_dir: ./saves
+valuable_model_provider:
+- deepseek
+- zhipu
+- ollama
+- siliconflow
+valuable_vl_model_provider: []
+vl_model: ark/doubao-seed-1-6-vision-250815
+vl_model_names:
+  ark:
+    base_url: https://ark.cn-beijing.volces.com/api/v3
+    default: doubao-seed-1-6-vision-250815
+    env: ARK_API_KEY
+    models:
+    - doubao-seed-1-6-vision-250815
+    name: ¶¹°ü£¨Ark£©
+    url: https://console.volcengine.com/ark/region:ark+cn-beijing/model
+vl_model_provider_status:
+  ark: false

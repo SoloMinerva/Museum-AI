@@ -1,0 +1,25 @@
+# 博物馆AI助手 - 站点信息配置
+
+# 组织信息
+organization:
+  name: "博物馆AI助手"
+  logo: "/favicon.svg"
+  avatar: "/favicon.svg"
+  login_bg: "/login-bg.jpg"
+
+# 品牌信息
+branding:
+  name: "博物馆AI助手"
+  title: "探索千年文明，对话历史瑰宝"
+  subtitle: "AI驱动的博物馆智能导览助手，为您讲述每一件文物背后的故事"
+  description: "结合馆藏知识库与知识图谱，提供专业、生动的文物解读与导览服务"
+
+# 功能特性
+features:
+  - "🏛️ 馆藏文物智能问答"
+  - "🔍 文物知识图谱探索"
+  - "🖼️ 以图识物"
+
+# 页脚信息
+footer:
+  copyright: "© 博物馆AI助手"
