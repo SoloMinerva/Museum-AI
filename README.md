@@ -19,6 +19,11 @@
 |-------|-------|-------|
 | <img width="400" src="docs/images/简单问题.png" /> | <img width="400" src="docs/images/图片搜索.png" /> | <img width="400" src="docs/images/文字描述.png" /> |
 
+## 🏗️ 系统架构
+
+<p align="center">
+  <img width="680" src="docs/images/museum_ai_flow.svg" />
+</p>
 
 ### 核心特性
 
